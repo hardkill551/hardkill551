@@ -3,7 +3,7 @@
 ## Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hugo-r-costa
-) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/thi.code](https://www.instagram.com/hug0_c05t4/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HardKILL#9672)
+) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/thi.code](https://www.instagram.com/hug0_c05t4/)) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HardKILL#9672)
 
 # Facts about me:
 
@@ -28,6 +28,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hardkill551/hardkill551/blob/output/github-contribution-grid-snake.svg)
 
 
