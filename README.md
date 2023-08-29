@@ -8,7 +8,7 @@
 # Facts about me:
 
 🔭 I am currently looking for a job in the technology field.<br />
-🌱 I am currently learning React.<br />
+🌱 I am currently learning Nest.<br />
 👯 I am looking to collaborate on projects focused on website development.<br />
 📫 How to reach me: hardkill194@gmail.com<br />
 👨‍🎓 I am studying Computer Science at university. I am also taking the Full Stack course at Driven Education.<br />
